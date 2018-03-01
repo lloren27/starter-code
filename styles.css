@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+html{
+
+    font-family: Roboto;
+
+}
+nav {
+    background-color: #C12127;
+    color: white;
+    padding-top:15px;
+    height:30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    
+}
+.top-links{
+    display: inline-block;
+    float: right;
+    padding: 0%;
+    margin: 0 20px 0 0;
+    position: relative;
+    top:-17px;
+
+}
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+header{
+    background-image: url("city-scape.svg");
+}
+.build{
+    text-align: left;
+    color: white;
+    position: relative;
+    top:-100px;
+    left:170px;
+}
+.titulo-a{
+    font-size:45px;
+}
+
+img.logo{
+
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    
+
+}
+input.barra{
+    background-color: rgb(31,82,111);
+    border: 1px solid gray;
+    width: 830px;
+    height: 40px;
+    color:gray;
+    position: relative;
+    margin: 10px;
+    top: -35px;
+    left:-10px
+}
+img.lupa{
+    width: 32px;
+    height:22px;
+    border: 1px solid gray;
+    background-color:rgb(31,82,111);
+    position: relative;
+    margin:10px;
+    padding: 10px;
+    top:-7px;
+    left: -33px;
+
+}
+p.frase1{
+    color:white;
+    position:relative;
+    top:-90px;
+    left: 1020px;
+
+}
+img.oso{
+    width: 35px;
+    position: relative;
+    left: 1140px;
+    top:-135px;
+    background-color: rgb(32, 101,136);
+
+}
+input.boton-primero{
+    background-color: rgb(240,146,51);
+    color: white;
+    border: 0px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 3px;
+    width:140px;
+    height: 30px;
+}
+
+section.collaboration{
+    background-color: rgb(39,53,71);
+    color:white;
+    height:500px;
+}
+
+img.colaboracion{
+    width: 500px;
+    height: 450px;
+    position: relative;
+    top: 30px;
+    left:100px;
+    
+}
+input.rojo{
+    background-color: rgb(203,56,55);
+    color:white;
+    border:0px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 3px;
+    width:140px;
+    height: 30px;
+    position: relative;
+    left: 700px;
+    top:-485px;
+   }
+.negro{
+    position:relative;
+    left: 700px;
+    top:-470px;
+    line-height: 40px;
+}
+.segundo{
+    position:relative;
+    left: 700px;
+    top:-425px;
+    font-size:45px;
+    
+}
+.enlace{
+    position:relative;
+    left: 720px;
+    top:-490px;
+    color:white;
+}
+.install{
+
+    background-color: rgb(49, 68, 88);
+    color:white;
+    border:0px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 3px;
+    width:140px;
+    height: 30px;
+    position: relative;
+    left: 300px;
+    top: 100px;
+
+}
+section.what{
+    background-image: url("forklift.svg");
+    height: 400px;
+    color:white;
+}
+section.tres{
+    background-color: white;
+    color:rgb(83, 88, 98);
+}
+h2.que{
+    position: relative;
+    left:300px;
+    top:100px;
+    font-size:40px;
+}
+section.install-text{
+
+    position: relative;
+    left:300px;
+    top:100px;
+
+}
+section.tres{
+    text-align: center;
+    height: 400px;
+}
+.titulito{
+    font-weight: bold;
+}
+.buscar{
+    position: relative;
+    left:-300px;
+}
+.construir{
+    position: relative;
+    left:300px;
+    top:-625px;
+}
+.descubrir{
+    position: relative;
+    top:-315px;
+
+}
